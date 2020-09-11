@@ -1,4 +1,4 @@
-# app
+# Vue App that takes string in a form and reprint it in uppercase
 
 ## Project setup
 ```
